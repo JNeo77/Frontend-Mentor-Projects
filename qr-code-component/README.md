@@ -36,8 +36,6 @@ I also learned the following:
   2. How to use Google Fonts in my projects.
   3. How to use media queries in CSS to optimize for mobile.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
 I'd like to become more fluent with sizing and positioning elements with the CSS box model.
