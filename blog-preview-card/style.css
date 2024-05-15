@@ -27,6 +27,7 @@ h2, p {
 
 a {
   text-decoration: none;
+  color: #111111;
 }
 
 a:visited {
@@ -93,3 +94,13 @@ a:hover {
   font-size: 14px;
 }
 
+@media screen and (max-width: 480px) {
+  #blog-preview-card-container {
+    margin-top: 3rem;
+    width: 90%;
+  }
+
+  #blog-card-main-img {
+    width: 90%;
+  }
+}
